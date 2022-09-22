@@ -3,7 +3,7 @@
 Easy way to download bulk images from unsplash.com
 
 > pip install -r requirements.txt
-> python main.py
+> python main.py  
 > Then paste URL and press Enter..!  
   
 Enjoy...!
